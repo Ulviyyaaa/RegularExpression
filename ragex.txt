@@ -1,0 +1,11 @@
+1) [a-zA-Z0-9_.-]+@[a-zA-Z]+\.[a-zA-Z]+.[a-zA-Z]+$
+
+u-lviyya.i_smaylova01@gmail.com
+ulviyyaismaylova@code.edu.az
+
+2) ^\+?\d{2,}|(-?|\s)\d{3}(-?|\s)\d{2}(-?|\s)\d{2}$
+
++994705970331
+0705970331
+70 597 03 31
+70-597-03-31
